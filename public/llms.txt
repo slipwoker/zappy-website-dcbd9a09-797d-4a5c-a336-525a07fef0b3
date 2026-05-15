@@ -1,0 +1,78 @@
+# MGM Garage Supply — Generative Engine Optimization Map
+
+> MGM Garage Supply is a warehouse-based business specializing in garage door hardware. The business operates as a supplier, likely serving contractors, installers, and possibly retail customers looking for garage door components and parts.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+MGM Garage Supply delivers premium garage door hardware straight from our warehouse to your worksite. Contractors and installers trust us for quality parts, fast fulfillment, and unbeatable industrial hardware supply solutions.
+
+### Products
+https://example.com/products
+Products | MGM Garage Supply. industrial hardware supply
+
+### About
+https://example.com/about
+Since day one, MGM Garage Supply has been the backbone of contractors and installers across Brooklyn and beyond. Discover our story, our warehouse-first approach, and why we outperform every brooklyn hardware supply co in the region.
+
+### Contact
+https://example.com/contact
+Have a bulk order, a technical question, or need a quote fast? Contact MGM Garage Supply now and connect with our warehouse team. We make sourcing industrial hardware supply easier, quicker, and more reliable than ever.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About MGM Garage Supply
+MGM Garage Supply is a warehouse-based business specializing in garage door hardware. The business operates as a supplier, likely serving contractors, installers, and possibly retail customers looking for garage door components and parts.
+
+## Target Audience
+- Professional Garage Installers
+- Home Renovation Contractors
+- DIY Enthusiasts & Homeowners
+
+## Industry
+Hardware Supply
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
